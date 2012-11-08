@@ -1,0 +1,43 @@
+If you do not have excel 2010 for pc or excel 2011 for mac:
+http://www.utorrent.com
+
+Then go here if you have a PC:
+http://thepiratebay.se/torrent/5624753/Microsoft_OFFICE_2010__Pro_Plus_PRECRACKED
+
+Otherwise if you have a mac:
+http://thepiratebay.se/torrent/5850094/Microsoft_Office_2011_14.0.0_Final_for_Mac_(Volume_Licensed)
+
+----------INSTRUCTIONS FOR USING LOBRMSIC------------------
+Low Orbit Basic Research Methods and Statistics Ion Cannon
+IMPORTANT! You can only enter 1000 data points in each column.
+
+Step 1. You should be prompted to enable macro content. Enable it.
+
+Step 2. Navigate to the "Formulas" tab, and click on "Calculation Options" if you're using a PC with Excel2010
+or "Settings" if you're using a Mac with Excel2011. Make sure "Manual" is selected. Otherwise, this might take a while.
+
+Step 3. Enter your two sets of data into the respective columns A and B.
+
+Step 4. Navigate to the "Formulas" tab. If you're using a PC with Excel 2010, click "Calculate Now" or press F9
+If you're using a Mac with Excel 2011, click "Recalculate All" or press CMD+
+
+Step 5. Review the analysis of each set of data, from each of the respective analysis sheets (Sheet "A" and Sheet "B").
+IMPORTANT! Recalculate on each sheet to make sure the data was sorted and calculated correctly.
+
+Step 6. Review the comparative analysis sheets. Change values in yellow boxes to alter analysis.
+Remember to recalculate whenever you make changes. 
+
+Norm.Dist.Analysis Sheet: What does it do?
+This sheet does a compartive analysis of the distributions of your data. Which means that it compares each data set
+with the standard deviation OF each data set.
+
+Samp.Dist.Analysis Sheet: What does it do?
+This sheet does a compartive analysis of the sampling distributions of your data sets. This means that it compares each
+data set with the standard deviation OF each data set divided by the square root of the number of data points in each
+respective data set.
+
+Made by Paul Stuart Vürst
+vurstp@gmail.com for support and development
+
+
+
